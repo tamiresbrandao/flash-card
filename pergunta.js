@@ -27,7 +27,6 @@ criaCartao(
 'Programação',
 'O que é Full Stack?',
 
-'A Full Stack developer é uma pessoa que trabalha tanto com Front-end quanto com Back-
-end.'
+'A Full Stack developer é uma pessoa que trabalha tanto com Front-end quanto com Back-end.'
 
 )
